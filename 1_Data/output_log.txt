@@ -1,0 +1,37 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 8750M (ID=0x6600)
+    Vendor:   ATI
+    VRAM:     2029 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\SAS\Documents\JumpingBitch\1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\SAS\Documents\JumpingBitch\1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\SAS\Documents\JumpingBitch\1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\SAS\Documents\JumpingBitch\1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\SAS\Documents\JumpingBitch\1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\SAS\Documents\JumpingBitch\1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\SAS\Documents\JumpingBitch\1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\SAS\Documents\JumpingBitch\1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\SAS\Documents\JumpingBitch\1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\SAS\Documents\JumpingBitch\1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\SAS\Documents\JumpingBitch\1_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.252 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\SAS\Documents\JumpingBitch\1_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: e70 -> priority: 1 
+Here
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.655564 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 272.
+Total: 0.343390 ms (FindLiveObjects: 0.023092 ms CreateObjectMapping: 0.020526 ms MarkObjects: 0.228784 ms  DeleteObjects: 0.070132 ms)
+
